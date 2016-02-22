@@ -26,7 +26,7 @@ system = {
 		// default root paths
 		if (empty) {
 			paths = {
-				'linux': ['home', 'media'],
+				'linux': ['home', 'media', 'run/media'],
 				'freebsd': ['home', 'media'],
 				'cygwin': ['cygdrive'],
 				'darwin': ['Users', 'Volumes']
